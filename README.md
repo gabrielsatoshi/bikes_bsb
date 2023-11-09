@@ -42,7 +42,7 @@ Caso você tenha alguma dúvida você pode consultar:
 
 <h1>Tutoriais💻</h1>
 
-Vídeo mostrando todo o processo : https://www.youtube.com/
+Vídeo mostrando todo o processo : https://youtu.be/XJCTpFG2WTg
 
 
 
