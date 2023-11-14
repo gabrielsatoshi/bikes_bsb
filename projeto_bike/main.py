@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 import sqlite3
-
+#Lembrar de utilizar o pip install uvicorn
 app = FastAPI()
 
 
