@@ -55,7 +55,7 @@ Esta ferramenta serve para você conseguir visualizar o seu banco de forma gráf
 Se você já realizou o download da ferramenta, basta abrir o programa e arrastar o arquivo banco_bikes para dentro do programa.
 
 <h1>Flask e SQLite 🤖</h1>
-<h1>Get</h1>
+<h1>GET</h1>
 
 Se você clonou o repositório e realizou todos os passos acima , a pasta bikes_bsb deve permanecer dentro do seu computador , desta forma a utilidade real
 da base de dados SQLite vem a tona, a base de dados banco_bikes tem a finalidade de fornecer dados para uma API Python , Nesta seção será ensinado passo a passo de 
@@ -93,6 +93,19 @@ Porém também é possível sermos mais especificos e consultar um id dentro da 
 É possível notar que o ID da estação está sendo passado pela URL, se você olhar bem para a imagem vai perceber que o ID 4 <br>
 está sendo retornado, mas se você alterar o número do ID na URL você irá receber a respectiva estação que está cadastrada com o número.<br>
 Assim podemos concluir a rota GET , lembrando que esse método é válido tanto para a tabela df_stations quanto para a tabela df_rides.<br>
+<br>
+<h1>POST</h1>
+
+O método POST é um pouco diferente do método GET, com esse novo método podemos inserir novos registros na tabela e depois utilizar o GET para
+conferir se o novo registro realmente foi inserido na tabela, mas para isso precisamos da ajuda de um programa.
+
+<h3>1° Primeiro passo</h3>
+
+A rota POST está definida na tabela como "NECESSITA POSTMAN ", a razão para isso é que a requisição POST não pode ser passada pela URL como a
+requisição GET, desta forma iremos utilizar o programa POSTMAN para nos auxiliar com a requisição POST. O programa em questão pode ser baixado
+<a href="https://www.postman.com/downloads/">Clicando aqui.</a>
+
+<h3>2° Segundo passo</h3>
 
 <h1>Erros ou dúvidas❗</h1>
 
