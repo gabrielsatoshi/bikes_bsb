@@ -6,6 +6,9 @@
 </div>
 
 <h1>Transferencia .csv para SQLite 📄</h1>
+
+Esse projeto tem como finalidade alimentar uma API Python com dados fornecidos em uma base de dados .csv que será posteriormente convertida
+em SQLite , onde será contruido endpoints GET e POST.
  
   
 <h3>1° Primeiro passo</h3>
@@ -53,6 +56,16 @@ Se você já realizou o download da ferramenta, basta abrir o programa e arrasta
 
 <h1>Flask e SQLite 🤖</h1>
 <h1>Get</h1>
+
+Se você clonou o repositório e realizou todos os passos acima , a pasta bikes_bsb deve permanecer dentro do seu computador , desta forma a utilidade real
+da base de dados SQLite vem a tona, a base de dados banco_bikes tem a finalidade de fornecer dados para uma API Python , Nesta seção será ensinado passo a passo de 
+como utilizar a rota GET nesta API desenvolvida em Flask.
+
+<h3>1° Primeiro passo</h3>
+
+Antes de tudo você deve abrir o arquivo onde contém a configuração dos endpoints e baixar as bibliotecas utilizadas no projeto.<br>
+`pip install flask`<br>
+
 <h1>Erros ou dúvidas❗</h1>
 
 Caso ocorra algum erro você pode verificar:
