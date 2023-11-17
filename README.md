@@ -1,26 +1,45 @@
-<h1>🚲 bikes bsb</h1>
+<h1>bikes bsb 🚲 </h1>
 
 
 
-<h1>Como executar o código e extrair os dados 🎲🎲</h1>
+<h1>Transferencia .csv para SQLite</h1>
  
   
-**1° Primeiro passo**
+<h3>1° Primeiro passo</h3>
 
-Primeiramente é necessário que você tenha instalado no seu computador o programa <a href="https://git-scm.com/">Git.</a>
-Caso você já tenha instalado o Programa, você deve abrir o  `git bash` e digitar o seguinte comando :
- `git clone https://github.com/gabrielsatoshi/bikes_bsb.git`<br>
+Primeiramente é necessário que os arquivos .csv sejam baixados em seu computador , para isso faça o download dos arquivos
+no link abaixo.
+<a href="https://salaonline.ceub.br/pluginfile.php/290814/mod_assign/introattachment/0/basebikes.zip?forcedownload=1">Clique aqui para baixar os Arquivos .csv</a>
  
-**2° Segundo passo**
+<h3>2° Segundo passo</h3>
 
-Agora que você clonou o repositório, você pode abrir a pasta chamada `bikes_bsb` e visualizar que existem alguns arquivos<br>
-porém para que o código funcione corretamente antes precisamos baixar os arquivos `.csv` que o professor disponibilizou no sala online.
-para adiantar o processo, você pode <a href="https://salaonline.ceub.br/pluginfile.php/290814/mod_assign/introattachment/0/basebikes.zip?forcedownload=1">clicar aqui</a> para realizar o download dos arquivos do projeto.
+Após baixar os arquivos .csv é necessário que você realize uma transferência dos dados para um banco SQLite, a forma mais simples
+é utilizar nosso script para a transferência dos dados contidos no repositório. Para baixar o script do repositório , você deve ter 
+o git instalado em seu computador e caso não tenha <a href="https://git-scm.com/downloads">Clique aqui</a> para realizar a instalação.
 
-**3° Terceiro passo**
+<h3>3° Terceiro passo</h3>
 
-Agora você precisa abrir o `Visual Studio` ou qualquer outro editor de código e executar o arquivo chamado `banco.py`<br>
-Caso não ocorra nenhum tipo de erro, significa que o banco sqlite foi gerado , verifique se existe algum arquivo chamado `banco_bikes`.
+Agora que você possui o Git instalado em seu computador , abra o programa Git Bash e digite o seguinte comando :<br>
+`git clone https://github.com/gabrielsatoshi/bikes_bsb.git`<br>
+Se você executou o código corretamente, agora você poderá visualizar uma pasta chamada bikes_bsb em seu computador e
+essa pasta contém o script para realizar a transferência dos dados .csv para o banco de dados SQLite.
+
+<h3>4° Quarto passo</h3>
+
+Já temos o necessário para realizar a transferência , porém antes precisamos mover os arquivos .csv para dentro da pasta bikes_bsb,
+assim que a movimentação for realizada, você já pode abrir o seu programa editor de código e começar a instalar as bibliotecas utilizadas
+no projeto. <br><br>
+`pip install csv`<br>
+`pip install sqlite3`<br><br>
+**OBS**:*Normalmente é utilizado um requirements.txt , mas estamos utilizando apenas duas bibliotecas*.<br>
+
+<h3>5° Quinto passo</h3>
+
+Agora que você possui todos os requisitos necessários para executar o código, basta clicar em run em seu editor de códigos,
+se não ocorrer nenhuma exceção meus parabéns! você seguiu todos os passos corretamente. Você deve ter percebido que na pasta
+bikes_bsb foi criado um arquivo chamado `banco_bikes`  esse é nosso banco de dados , acredite ou não todos os dados contidos nos
+arquivos .csv estão agora dentro do banco de dados SQLite.
+
 
 <h1>Erros ou dúvidas❗</h1>
 
