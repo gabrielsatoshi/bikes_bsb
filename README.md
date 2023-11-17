@@ -52,7 +52,7 @@ Esta ferramenta serve para você conseguir visualizar o seu banco de forma gráf
 Se você já realizou o download da ferramenta, basta abrir o programa e arrastar o arquivo banco_bikes para dentro do programa.
 
 <h1>Flask e SQLite 🤖</h1>
-
+<h1>Get</h1>
 <h1>Erros ou dúvidas❗</h1>
 
 Caso ocorra algum erro você pode verificar:
