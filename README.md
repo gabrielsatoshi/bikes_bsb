@@ -131,9 +131,9 @@ Caso você tenha alguma dúvida você pode consultar:
 Endpoint get : https://youtu.be/XJCTpFG2WTg<br>
 Endpoint post: https://youtu.be/XJCTpFG2WTg<br>
 
-## 🤝 Colaboradores
+##  Colaboradores 🤝
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Usuários que contribuiram ativamente e efetivamente para o projeto:
 
 <table>
   <tr>
