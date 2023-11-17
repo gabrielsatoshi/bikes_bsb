@@ -1,8 +1,7 @@
-<h1>bikes bsb 🚲 </h1>
+<h1>API bikes bsb 🚲 </h1>
 
 
-
-<h1>Transferencia .csv para SQLite</h1>
+<h1>Transferencia .csv para SQLite 📄</h1>
  
   
 <h3>1° Primeiro passo</h3>
@@ -47,6 +46,8 @@ Esse último passo é opcional , você pode seguir esse último passo para verif
 para isso você deve instalar a ferramenta Db Browser for SQLite , <a href="https://sqlitebrowser.org/dl/">Clique aqui</a> para baixar a ferramenta diretamente.
 Esta ferramenta serve para você conseguir visualizar o seu banco de forma gráfica ou seja, será possível você visualizar suas tabelas e os dados contidos nela.
 Se você já realizou o download da ferramenta, basta abrir o programa e arrastar o arquivo banco_bikes para dentro do programa.
+
+<h1>FastAPI e SQLite 🤖</h1>
 
 <h1>Erros ou dúvidas❗</h1>
 
