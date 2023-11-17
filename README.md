@@ -41,6 +41,13 @@ bikes_bsb foi criado um arquivo chamado `banco_bikes`  esse é nosso banco de da
 arquivos .csv estão agora dentro do banco de dados SQLite.
 
 
+<h3>6° Sexto passo (Opcional)</h3>
+
+Esse último passo é opcional , você pode seguir esse último passo para verificar se os dados realmente foram inseridos no banco de dados,
+para isso você deve instalar a ferramenta Db Browser for SQLite , <a href="https://sqlitebrowser.org/dl/">Clique aqui</a> para baixar a ferramenta diretamente.
+Esta ferramenta serve para você conseguir visualizar o seu banco de forma gráfica ou seja, será possível você visualizar suas tabelas e os dados contidos nela.
+Se você já realizou o download da ferramenta, basta abrir o programa e arrastar o arquivo banco_bikes para dentro do programa.
+
 <h1>Erros ou dúvidas❗</h1>
 
 Caso ocorra algum erro você pode verificar:
