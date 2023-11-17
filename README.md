@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=14F709&random=false&width=435&lines=Arquitetura+de+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=3000&color=14F709&random=false&width=435&lines=Arquitetura+de+Software)](https://git.io/typing-svg)
 <h1>API bikes bsb 🚲 </h1>
 <h1>Transferencia .csv para SQLite 📄</h1>
  
