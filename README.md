@@ -107,6 +107,24 @@ requisição GET, desta forma iremos utilizar o programa POSTMAN para nos auxili
 
 <h3>2° Segundo passo</h3>
 
+Após realizar a instalação do Postman é provável que seja oferecido uma opção de cadastro , essa etapa é opcional, após você sair desta parte
+poderá visualizar a interface gráfica do Postman , desta vez nossa motivação é apenas rodar a requisição POST e para realizar isto você deve criar
+uma nova coleção e selecionar o método como POST, o campo input do Postman deverá ser preenchido desta forma:
+
+<img src="https://user-images.githubusercontent.com/112598996/283955514-7deb4c46-9db9-4de7-b997-1244daef0a7b.png">
+
+
+<h3>3° Terceiro passo</h3>
+
+Após preencher o input do POSTMAN , clique na opção body e selecione o body como RAW , você irá receber um campo de texto semelhante a um bloco
+de notas, nesse campo você deverá criar um corpo JSON com os dados equivalentes ao ID que deverá ser único. o RAW deverá ser preenchido
+desta forma:<br>
+
+<img src="https://user-images.githubusercontent.com/112598996/283957106-2afa3664-1c14-48a5-bf4f-7631239ef385.png">
+
+**OBS**:*Nenhum campo deverá ser vazio, pois os campos foram configurados como not null*.<br>
+
+
 <h1>Erros ou dúvidas❗</h1>
 
 Caso ocorra algum erro você pode verificar:
