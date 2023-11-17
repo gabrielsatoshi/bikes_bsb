@@ -46,7 +46,7 @@ para isso você deve instalar a ferramenta Db Browser for SQLite , <a href="http
 Esta ferramenta serve para você conseguir visualizar o seu banco de forma gráfica ou seja, será possível você visualizar suas tabelas e os dados contidos nela.
 Se você já realizou o download da ferramenta, basta abrir o programa e arrastar o arquivo banco_bikes para dentro do programa.
 
-<h1>FastAPI e SQLite 🤖</h1>
+<h1>Flask e SQLite 🤖</h1>
 
 <h1>Erros ou dúvidas❗</h1>
 
