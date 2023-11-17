@@ -131,6 +131,31 @@ Caso você tenha alguma dúvida você pode consultar:
 Endpoint get : https://youtu.be/XJCTpFG2WTg<br>
 Endpoint post: https://youtu.be/XJCTpFG2WTg<br>
 
+## 🤝 Colaboradores
+
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gabrielsatoshi">
+        <img src="https://avatars.githubusercontent.com/u/112598996?v=4" width="100px;" alt="Foto de gabrielsatoshi"/><br>
+        <sub>
+          <b>Gabriel rodrigues </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cayanvieira">
+        <img src="https://avatars.githubusercontent.com/u/67399967?v=4" width="100px;" alt="Foto do Cayan"/><br>
+        <sub>
+          <b>Cayan vieira </b>
+        </sub>
+      </a>
+    </td>
+
+  </tr>
+</table>
 
 
 
