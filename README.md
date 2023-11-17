@@ -124,6 +124,16 @@ desta forma:<br>
 
 **OBS**:*Nenhum campo deverá ser vazio, pois os campos foram configurados como not null*.<br>
 
+<h3>4° Quarto passo ( Configuração adicional )</h3>
+
+É possível que seu Postman não venha configurado corretamente, então uma configuração interessante seria definir o content-type para que 
+alguns erros de tipo de arquivo sejam evitados.
+
+<img src="https://user-images.githubusercontent.com/112598996/283957925-2710f051-f6c4-4476-b2fb-bd644d6a1b9a.png">
+
+<h3>5° Quinto passo </h3>
+
+O ultimo passo é bem simples, você deve clicar em send após todas as configurações estiverem estabelecidas.
 
 <h1>Erros ou dúvidas❗</h1>
 
@@ -132,15 +142,17 @@ Caso ocorra algum erro você pode verificar:
 1- Se os módulos que estão sendo utilizados no código foram instalados no seu computador.<br>
 2- Se os arquivos df_stations.csv e df_rides.csv estão presentes na pasta do bikes_bsb.<br>
 3- Se o seu computador possui versões Python 3.0.<br>
-4- Se o seu visual studio possui uma extensão para interpretador Python.<br>
-5- Se existe algum erro de sintaxe no código ou estão faltando partes.
+4- Se o seu editor de código possui uma extensão para interpretador Python.<br>
+5- Se existe algum erro de sintaxe no código ou estão faltando partes.<br>
+6- Se você realizou as configurações corretas.
+7- A documentação.
+8- Os autores.
 
 Caso você tenha alguma dúvida você pode consultar:
 
 1- Documentação do SQLITE : https://docs.python.org/pt-br/3.9/library/sqlite3.html<br>
 2- Documentação do PYTHON : https://docs.python.org/pt-br/3/<br>
-3- O criador do código : gabrieltechr@gmail.com <br>
-4- ChatGPT: https://chat.openai.com/ <br>
+3- ChatGPT: https://chat.openai.com/ <br>
 
 
 <h1>Tutoriais💻</h1>
