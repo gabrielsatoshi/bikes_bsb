@@ -63,8 +63,36 @@ como utilizar a rota GET nesta API desenvolvida em Flask.
 
 <h3>1° Primeiro passo</h3>
 
-Antes de tudo você deve abrir o arquivo onde contém a configuração dos endpoints e baixar as bibliotecas utilizadas no projeto.<br>
-`pip install flask`<br>
+Antes de tudo você deve abrir o arquivo onde contém a configuração dos endpoints e baixar as bibliotecas utilizadas no projeto.<br><br>
+`pip install flask`<br><br>
+**OBS**:*Lembre de instalar as bibliotecas .csv e sqlite3 mostradas na primeira seção*.<br>
+
+<h3>2° Segundo passo</h3>
+
+Você deve agora clicar no botão Run , se tudo der certo irá exibir algo como `http://127.0.0.1:5000`<br>
+se isso aparecer deu tudo certo e você está conseguindo rodar a API em seu localhost corretamente.<br>
+Você deve copiar o link que aparecer e colar em seu navegador , fazendo isto você deve ver uma espécie de<br>
+painel semelhante a este:<br>
+
+<img src="https://user-images.githubusercontent.com/112598996/283928219-642f54dd-1b0b-4701-9329-61b5e14669a7.png">
+
+<h3>3° Terceiro passo</h3>
+
+Agora temos acesso a um painel com links que criam as requisições na API, basta escolher um dos links que estão <br>
+sendo exibidos no painel. Perceba que a rota está sendo exibida na primeira coluna da tabela , observando bem podemos ver<br>
+que é possível consultar as tabelas do banco de dados , assim como os itens da tabela. Se você clicar no primeiro link, poderá<br>
+presenciar algo semelhante a isto:<br>
+
+<img src="https://user-images.githubusercontent.com/112598996/283929758-cc0722a0-0b97-4a66-9658-92fd3b7d23af.png">
+<br>
+Na imagem acima podemos ver que o retorno é toda a tabela df_stations , isso ocorre pois clicamos no primeiro link exibido<br>
+Porém também é possível sermos mais especificos e consultar um id dentro da tabela df_stations, basta clicar no segundo link.<br><br>
+
+<img src="https://user-images.githubusercontent.com/112598996/283931232-6b15b4d7-4b4d-49ce-ba16-0f42cc435b1a.png">
+<br>
+É possível notar que o ID da estação está sendo passado pela URL, se você olhar bem para a imagem vai perceber que o ID 4 <br>
+está sendo retornado, mas se você alterar o número do ID na URL você irá receber a respectiva estação que está cadastrada com o número.<br>
+Assim podemos concluir a rota GET , lembrando que esse método é válido tanto para a tabela df_stations quanto para a tabela df_rides.<br>
 
 <h1>Erros ou dúvidas❗</h1>
 
