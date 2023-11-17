@@ -127,7 +127,9 @@ Caso você tenha alguma dúvida você pode consultar:
 
 <h1>Tutoriais💻</h1>
 
-Vídeo mostrando todo o processo : https://youtu.be/XJCTpFG2WTg
+.csv para SQLite : https://youtu.be/XJCTpFG2WTg<br>
+Endpoint get : https://youtu.be/XJCTpFG2WTg<br>
+Endpoint post: https://youtu.be/XJCTpFG2WTg<br>
 
 
 
