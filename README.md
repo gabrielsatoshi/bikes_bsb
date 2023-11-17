@@ -1,5 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=3000&color=14F709&random=false&width=435&lines=Arquitetura+de+Software)](https://git.io/typing-svg)
 <h1>API bikes bsb 🚲 </h1>
+<div class="line">
+<img src='https://img.shields.io/badge/python-green'> <img src='https://img.shields.io/badge/Markdown-yellow'> <img src='https://img.shields.io/badge/SqLite-red'> 
+<img src='https://img.shields.io/badge/Flask-pink'>
+</div>
+
 <h1>Transferencia .csv para SQLite 📄</h1>
  
   
